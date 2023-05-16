@@ -1,0 +1,9 @@
+{
+  "deployItems": {"modules": ["SerializedItems"]},
+  "buildTargets": ["./XMCloudDeployNothing.sln"],
+  "renderingHosts": {},
+  "transforms": [],
+  "postActions": {"actions": {
+    "warmUpCm": {"urls": ["/sitecore/shell", "/sitecore/shell/Applications/Content%20Editor.aspx?sc_bw=1"]}
+  }}
+}

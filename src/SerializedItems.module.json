@@ -1,0 +1,12 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "SerializedItems",
+  "items" : {
+    "includes": [      
+      {
+        "name": "media",
+        "path": "/sitecore/media library"
+      }
+    ]
+  }
+}
